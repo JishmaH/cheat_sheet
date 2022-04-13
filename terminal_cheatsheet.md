@@ -1,5 +1,5 @@
 # terminal command cheatsheet
-- `pwd` */Users/yourusername*
+- `pwd` *prints current working directory*
 
 - `ls` *a list of files and folders will appear*
 
